@@ -1,0 +1,4 @@
+v0.5
+- I add arguements for fill commands .-.
+v0.6
+- new command! /replace"# GokPlugin" 
